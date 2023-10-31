@@ -25,7 +25,7 @@ main{
 	display: flex;/*выравнивание эл в строку*/
 	flex-wrap: wrap;/*предсказуемое поведение контейнера?*/
 	justify-content: center;/*центрирование по горизонтали*/
-	width: 70%;
+	width: 85%;
 	margin: auto;
 	padding: 50px;
 	background-color: #fff;
@@ -42,7 +42,7 @@ padding-bottom: 40px;/*внутренний отступ снизу*/
 details{
   display:block;
   background: #fff;
-  width:4000px;
+  width:4500px;
   box-shadow: 0 10px 15px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
   border-radius: 8px;
   overflow:hidden;
